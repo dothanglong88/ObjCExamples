@@ -1,1 +1,1 @@
-ObjCExamples written by Longx
+ObjCExamples written by Long
